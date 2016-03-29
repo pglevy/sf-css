@@ -1407,8 +1407,9 @@ ul.x-tab-strip li.x-tab-strip-active {
   font-size: 13px; }
 
 .x-form-empty-field {
-  color: #d7d8d8 !important;
-  font-style: italic; }
+  color: red !important;
+  font-style: italic;
+  }
 
 .x-form-empty-field-black {
   color: #677786; }
